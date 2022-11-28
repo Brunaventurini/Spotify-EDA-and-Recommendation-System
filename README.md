@@ -6,7 +6,7 @@
 - Visualized how music's overall sound has changed over the years and the characteristics of numerous music genres.
 - Discovered clusters in the dataset using the K-means clustering algorithm and visualized them using t-SNE and PCA.
 - Installed and imported the Spotipy library to fetch and query Spotify's music catalog for songs from Spotify's Web API.
-- Generated the song recommendations using sklearn's similarity metric euclidean distance and scipy's distance metric
+- Generated the song recommendations using sklearn's similarity metric euclidean distance and scipy's distance metric.
 
 ## Dataset
 Dataset used can be downloaded from the Google drive 
