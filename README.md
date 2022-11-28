@@ -9,7 +9,7 @@
 - Generated the song recommendations using sklearn's similarity metric euclidean distance and scipy's distance metric.
 
 ## Notebook
-Due to the big file size the Notebook can't be viewed. Please click on the link [here](https://www.instagram.com/liuwenlw/) to view the Jupyter Notebook
+Due to the big file size the Notebook can't be viewed. Please click on the link [here](https://nbviewer.org/github/kshitiz311/Spotify-EDA-and-Recommendation-System/blob/main/Spotify%20EDA%20and%20Recommendation%20System.ipynb) to view the Jupyter Notebook
 
 ## Dataset
 Dataset used can be downloaded from the Google drive 
