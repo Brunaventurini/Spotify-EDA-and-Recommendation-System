@@ -8,6 +8,9 @@
 - Installed and imported the Spotipy library to fetch and query Spotify's music catalog for songs from Spotify's Web API.
 - Generated the song recommendations using sklearn's similarity metric euclidean distance and scipy's distance metric.
 
+## Notebook
+Due to the big file size the Notebook can't be viewed. Please click on the link [here](https://www.instagram.com/liuwenlw/) to view the Jupyter Notebook
+
 ## Dataset
 Dataset used can be downloaded from the Google drive 
 - [data](https://drive.google.com/drive/folders/1Y4FXsJ9m723YfpQ3j5bdN1x-MgqM2-wG?usp=sharing)
