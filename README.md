@@ -8,7 +8,7 @@
 - Installed and imported the Spotipy library to fetch and query Spotify's music catalog for songs from Spotify's Web API.
 - Generated the song recommendations using sklearn's similarity metric euclidean distance and scipy's distance metric.
 
-##Audio Features
+## Audio Features
 
 - duration_ms - The duration of the track in milliseconds.
 key - The estimated overall key of the track. Integers map to pitches using standard Pitch Class notation . E.g. 0 = C, 1 = C♯/D♭, 2 = D, and so on. If no key was detected, the value is -1.
