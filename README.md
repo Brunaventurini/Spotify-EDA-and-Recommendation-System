@@ -8,7 +8,7 @@
 - Installed and imported the Spotipy library to fetch and query Spotify's music catalog for songs from Spotify's Web API.
 - Generated the song recommendations using sklearn's similarity metric euclidean distance and scipy's distance metric.
 
-## Audio Features
+### Audio Features
 
 - duration_ms - The duration of the track in milliseconds.
 key - The estimated overall key of the track. Integers map to pitches using standard Pitch Class notation . E.g. 0 = C, 1 = C♯/D♭, 2 = D, and so on. If no key was detected, the value is -1.
@@ -26,6 +26,6 @@ key - The estimated overall key of the track. Integers map to pitches using stan
 - id - The Spotify ID for the track.
 - popularity - The popularity of the track. The value will be between 0 and 100, with 100 being the most popular. The popularity is calculated by algorithm and is based, in the most part, on the total number of plays the track has had and how recent those plays are. Generally speaking, songs that are being played a lot now will have a higher popularity than songs that were played a lot in the past. Artist and album popularity is derived mathematically from track popularity. Note that the popularity value may lag actual popularity by a few days: the value is not updated in real time.
 
-## Notebook
+### Notebook
 Due to the big file size the Notebook can't be viewed. Please click on the link [here](https://nbviewer.org/github/kshitiz311/Spotify-EDA-and-Recommendation-System/blob/main/Spotify%20EDA%20and%20Recommendation%20System.ipynb) to view the Jupyter Notebook
 
